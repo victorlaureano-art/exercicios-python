@@ -1,0 +1,8 @@
+numero1 = int(input("Insira um número inteiro: "))
+numero2 = int(input("Insira outro número inteiro: "))
+if numero1 > numero2:
+    print(f"O maior número é: {numero1}")
+elif numero2 > numero1:
+    print(f"O maior número é: {numero2}")
+else:
+    print("Os números são iguais.")
