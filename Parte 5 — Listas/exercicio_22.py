@@ -1,0 +1,7 @@
+numero1 = input("Digite o primeiro número: ")
+numero2 = input("Digite o segundo número: ")
+numero3 = input("Digite o terceiro número: ")
+numero4 = input("Digite o quarto número: ")
+numero5 = input("Digite o quinto número: ")
+print("Os números digitados foram:", numero1, numero2, numero3, numero4, numero5)
+print("A soma dos números digitados é:", int(numero1) + int(numero2) + int(numero3) + int(numero4) + int(numero5))
