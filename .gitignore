@@ -1,0 +1,12 @@
+#arquivos de cache
+
+_pychache_/
+
+#configurações locais do vs code
+
+.vscode/
+
+
+#ambientes virtuais
+
+venv/
